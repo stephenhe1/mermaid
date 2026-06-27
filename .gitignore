@@ -79,3 +79,5 @@ mermaid-parser.tar.gz
 .tmp
 .fallow/
 .playwright-mcp/
+test-results/
+playwright-report/
